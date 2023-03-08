@@ -1,0 +1,37 @@
+work =>>>nodemon start
+
+
+npm init (istersen oto yes için -y)
+(package)
+
+npm install -g yo
+npm install -g generator-express-es6
+yo express-es6
+
+
+npm install -D nodemon
+
+
+
+
+npm install nodemailer --save
+npm install crypto --save
+npm install bcrypt --save
+npm install underscore --save
+npm install mongoose --save
+npm install express --save
+
+npm install jsonwebtoken --save
+
+
+express . (bulunduğumuz dizine kursun diye nokta  )
+
+npm install gulp --save-dev
+
+
+npm uninstall mongoose
+
+
+
+npm audit fix
+npm audit fix --force
